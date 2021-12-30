@@ -1,0 +1,41 @@
+{
+	"trealet":{
+		"exec":"streamline",
+		"title":"Nhạc cụ dân tộc",
+		"author":"Nhóm 17",
+		"banner":"10218",
+		"desc":"Việt Nam là nước có một kho tàng nhạc cụ cổ truyền hết sức phong phú và đa dạng. Kho tàng ấy được hình thành trong suốt hành trình cuộc sống và chiều dài lịch sử dựng nước và giữ nước. Có những nhạc cụ được sáng tạo tại chỗ có tính đặc trưng bản địa, có những nhạc cụ được du nhập từ nhiều đường khác nhau nhưng đã được dân tộc hóa, bản địa hóa cho phù hợp với nhạc ngữ, với thẩm mỹ âm nhạc Việt Nam. Tổng cộng có đến vài trǎm chi loài nhạc cụ khác nhau. Những nhạc cụ đó dùng để đệm cho hát, múa, độc tấu, hoà tấu... Các nhạc cụ này còn dùng trong lễ hội, trong sinh hoạt văn hóa của mỗi dân tộc.",
+		"items":[
+			{
+				"name":"Đàn bầu",
+				"info":"Đàn bầu (chữ Nôm: 彈匏) hay độc huyền cầm (giản thể: 独弦琴; phồn thể: 獨弦琴; bính âm: dúxiánqín) nghĩa là đàn một dây), là một loại nhạc cụ truyền thống của người Việt, thanh âm phát ra nhờ sử dụng que hay miếng gảy vào dây. Dựa theo cấu tạo của hộp cộng hưởng, đàn bầu chia hai loại là đàn thân tre và đàn hộp gỗ.",
+				"images":[9786,9762,9146]
+			},
+			{
+				"name":"Đàn nguyệt",
+				"info":"Đàn nguyệt (tiếng Trung: 月琴; bính âm: Yùeqín, Hán Việt: nguyệt cầm) - là nhạc cụ dây gẩy xuất xứ từ Trung Quốc được du nhập vào Việt Nam, trong Nam còn gọi là đờn kìm. Loại đàn này có hộp đàn hình tròn như mặt trăng nên mới có tên là 'đàn nguyệt'. Theo sách xưa, đàn nguyên thủy có 4 dây (đàn nguyệt Trung Quốc), sau rút lại còn 2 dây.",
+				"images":[9722,11162,9170]
+			},
+			{
+				"name":"Đàn nhị",
+				"info":"Đàn nhị là nhạc cụ thuộc bộ dây có cung vĩ, do đàn có 2 dây nên gọi là đàn nhị (tiếng Trung: 二胡; bính âm: èrhú; Hán Việt: nhị hồ), có xuất xứ từ Ấn Độ và vùng Trung Á, được du nhập vào Trung Quốc từ thế kỷ I đến thế kỷ III sau công nguyên từ người Hồ (tên gọi được người Hán dùng để chỉ các dân tộc sinh sống tại vùng giáp giới giữa tây bắc Trung Quốc với các nước Trung Á) trong thời kỳ thịnh đạt của 'Con đường tơ lụa'. Đàn xuất hiện ở Việt Nam khoảng thế kỷ X.",
+				"images":[9770,9730,9194]
+			},
+			{
+				"name":"Đàn tranh",
+				"info":"Đàn tranh (chữ Nôm: 彈箏, tiếng Trung: 古箏; bính âm: Gǔzhēng, Hán Việt: cổ tranh) - còn được gọi là đàn thập lục hay đàn có trụ chắn, là nhạc cụ truyền thống của người phương Đông, có xuất xứ từ Trung Quốc.",
+				"images":[9794,9802,9186]
+			},
+			{
+				"name":"Đàn T'rưng",
+				"info":"T'rưng là loại nhạc cụ gõ phổ biến ở vùng Tây Nguyên, Việt Nam, đặc biệt là đối với dân tộc Gia Rai và Ba Na. Cái tên 'T rưng' xuất phát từ tiếng Gia Rai, lâu ngày trở nên quen thuộc với mọi người. Đàn t'rưng làm bằng một số ống tre lồ ô hay nứa ngộ có kích cỡ khác nhau.",
+				"images":[9738,9746,9162]
+			},
+			{
+				"name":"Đàn tỳ bà",
+				"info":"Đàn tỳ bà (chữ Hán: 琵琶; bính âm: pípá, romaji: biwa, tiếng Hàn: bipa) là tên gọi một nhạc cụ dây gảy của người phương Đông được phổ biến nhất ở Trung Quốc, qua thời gian dài sử dụng nó đã được bản địa hóa khác nhau tuỳ theo từng vùng hoặc từng quốc gia Á Đông",
+				"images":[9810,9778,9154]
+			}
+		]
+	}
+}

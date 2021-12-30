@@ -1,0 +1,42 @@
+{
+	"trealet":{
+		"exec":"streamline",
+		"title":"Demo Stepquest",
+		"steps":[
+			{
+				"type":"single",
+				"question":"Đất nước Việt Nam có tổng cộng bao nhiêu dân tộc anh em",
+				"options":["54","53","64","63"],
+				"answer":"1"
+			},
+			{
+				"type":"multi",
+				"question":"Những loại nhạc cụ nào sau đây là nhạc cụ dân tộc Việt Nam",
+				"options":["Đàn guitar","Đàn nhị","Đàn tranh","Đàn piano"],
+				"answer":["2","3"]
+			},
+			{
+				"type":"image",
+				"image":"9786",
+				"answer":"Đàn bầu"
+			},
+			{
+				"type":"multi",
+				"question":"Đâu là một triều đại trong lịch sử của nước Việt Nam",
+				"options":["Nhà Nguyễn","Nhà Đường","Nhà Tống","Nhà Trần"],
+				"answer":["1","4"]
+			},
+			{
+				"type":"image",
+				"image":"24650",
+				"answer":"Khuê Văn Các"
+			},
+			{
+				"type":"single",
+				"question":"Vị vua nào là người có công dời đô từ Hoa Lư về thành Đại La vào năm 1010?",
+				"options":["Lý Thái Tổ","Lý Thái Tông","Lý Thánh Tông","Lý Nhân Tông"],
+				"answer":"1"
+			}
+		]
+	}
+}

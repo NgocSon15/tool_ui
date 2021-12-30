@@ -1,0 +1,26 @@
+{
+	"trealet":{
+		"exec":"streamline",
+		"title":"aaa",
+		"author":"aaa",
+		"banner":"aaa",
+		"desc":"aaa",
+		"items":[
+			{
+				"name":"sss",
+				"info":"sss",
+				"images":[1,1,1]
+			},
+			{
+				"name":"sss",
+				"info":"sss",
+				"images":[2,2,2]
+			},
+			{
+				"name":"ddd",
+				"info":"ddd",
+				"images":[3,3,3]
+			}
+		]
+	}
+}
